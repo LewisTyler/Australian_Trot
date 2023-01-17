@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/RaceConfiguration.unity
+    guid: f4efb0d2cb21851499064f0e63ab56e7
   m_configObjects: {}
